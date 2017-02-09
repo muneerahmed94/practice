@@ -1,4 +1,4 @@
-package other.chessengine.fahd.cards;
+package other.fahd.cards.week8;
 
 import java.util.Scanner;
 

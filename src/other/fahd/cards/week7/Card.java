@@ -1,4 +1,4 @@
-package other.chessengine.fahd.cards;
+package other.fahd.cards.week7;
 
 import java.util.HashMap;
 import java.util.Map;
